@@ -1,0 +1,69 @@
+{
+  "extensionVersion": "1.5.4",
+  "fileName": "c:\\Users\\rohit\\OneDrive\\Documents\\CS231-2026\\02_outlab\\task1.vcd",
+  "markerTime": null,
+  "altMarkerTime": null,
+  "displayTimeUnit": "ns",
+  "selectedSignal": {
+    "name": "tb.y",
+    "msb": -1,
+    "lsb": -1
+  },
+  "zoomRatio": 164.8695652173913,
+  "scrollLeft": 0,
+  "defaultPixelTime": 100,
+  "displayedSignals": [
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 1,
+      "name": "tb.a",
+      "numberFormat": "binary",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "a",
+      "renderType": "binary",
+      "valueLinkEnable": false
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 2,
+      "name": "tb.b",
+      "numberFormat": "binary",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "b",
+      "renderType": "binary",
+      "valueLinkEnable": false
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 3,
+      "name": "tb.sel",
+      "numberFormat": "binary",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "sel",
+      "renderType": "binary",
+      "valueLinkEnable": false
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 0,
+      "name": "tb.y",
+      "numberFormat": "binary",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "y",
+      "renderType": "binary",
+      "valueLinkEnable": false
+    }
+  ]
+}
